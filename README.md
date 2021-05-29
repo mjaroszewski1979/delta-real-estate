@@ -27,7 +27,7 @@
  * CSS custom properties for fast and forward-looking design
  * HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
  * CSS Flexbox applied to simplify complex layout design
- * Font awesome icons collection &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
+ * Font awesome icons collection &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/font_awesome.png">
  * Advanced CSS styling techniques applied: transitions, animations and image filtering
  * Netlify form submission and spam filters &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/login.png">
 

@@ -29,7 +29,7 @@
  * CSS Flexbox applied to simplify complex layout design
  * Font awesome icons collection &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/font_awesome.png">
  * Advanced CSS styling techniques applied: transitions, animations and image filtering
- * Netlify form submission and spam filters &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/login.png">
+ * Netlify form submission and spam filters &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/login.png"> 
 
 -------------------
 
@@ -37,4 +37,4 @@
 
   Live | Code | Technologies
   ---- | ---- | ------------
-  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://delta-real-estate.netlify.app) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github1.png">](https://github.com/mjaroszewski1979/delta-real-estate) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css1.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png">
+  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://delta-real-estate.netlify.app) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github1.png">](https://github.com/mjaroszewski1979/delta-real-estate) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css1.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jquery.png">

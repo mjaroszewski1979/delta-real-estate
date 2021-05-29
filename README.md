@@ -1,24 +1,34 @@
-### Simple  static website created with HTML, CSS and touch of Javascript. The main purpose is to give a prospective client a sense of who I am, what I can do and whether I am the person they should hire to execute their project.
+### This is a static website powered by HTML, CSS and Slick - jQuery plugin for creating fully customizable, responsive and mobile friendly carousels/sliders. 
 
 -------------------
 
 ### Structure
- * Navigation bar
+ * Header
+   * Company logo
+   * Navigation bar - hamburger menu
  * Body
-   * Name | Profession | Picture
-   * Things I'm good at (Skills)
-   * About myself, my interests, goals and hobbies
-   * Selected design examples
+   * Main section 
+   * How it works - find, buy or invest in property
+   * Example of property listing with pictures and offer details
+   * Meet the real estate agents
+   * Basic information about the company's services
+   * Customer testimonial examples
+   * Contact form and address details
  * Footer
-   * Contact / Follow / Facebook / LinkedIn / GitHub / Youtube / Resume
+   * About section
+   * Quick links
+   * Newsletter subscription
+   * Social media follow
 
 -------------------
 
 ### Features
  * Compatible with devices of all sizes  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png">
  * CSS custom properties for fast and forward-looking design
- * Advanced HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
+ * HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
  * CSS Flexbox applied to simplify complex layout design
+ * Font awesome icons collection
+ * Advanced CSS styling techniques applied: transitions, animations and image filtering
 
 -------------------
 

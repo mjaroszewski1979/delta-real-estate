@@ -2,7 +2,7 @@
 
 -------------------
 
-### Structure
+### Structure:
  * Header
    * Company logo
    * Navigation bar - hamburger menu
@@ -22,7 +22,7 @@
 
 -------------------
 
-### Features
+### Features:
  * Compatible with devices of all sizes  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png">
  * CSS custom properties for fast and forward-looking design
  * HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">

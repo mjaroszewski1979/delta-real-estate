@@ -33,7 +33,7 @@
 
 -------------------
 
-   ![caption](https://github.com/mjaroszewski1979/delta-real-estate/blob/main/delta-real-estate.gif)
+   ![caption](https://github.com/mjaroszewski1979/delta-real-estate/blob/main/delta-mockup.png)
 
   Live | Code | Technologies
   ---- | ---- | ------------
